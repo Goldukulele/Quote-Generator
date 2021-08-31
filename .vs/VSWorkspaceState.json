@@ -2,9 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\controllers",
-    "\\config"
+    "\\app\\assets",
+    "\\app\\assets\\javascripts",
+    "\\app\\assets\\stylesheets",
+    "\\app\\views",
+    "\\app\\views\\layouts",
+    "\\app\\views\\quotes",
+    "\\config",
+    "\\db\\migrate"
   ],
-  "SelectedNode": "\\app\\controllers\\quotes_controller.rb",
+  "SelectedNode": "\\app\\assets\\stylesheets\\application.scss",
   "PreviewInSolutionExplorer": false
 }
