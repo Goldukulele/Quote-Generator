@@ -3,14 +3,12 @@
     "",
     "\\app",
     "\\app\\assets",
-    "\\app\\assets\\javascripts",
-    "\\app\\assets\\stylesheets",
+    "\\app\\controllers",
     "\\app\\views",
     "\\app\\views\\layouts",
     "\\app\\views\\quotes",
-    "\\config",
-    "\\db\\migrate"
+    "\\config"
   ],
-  "SelectedNode": "\\app\\assets\\stylesheets\\application.scss",
+  "SelectedNode": "\\app\\views\\quotes\\index.html.erb",
   "PreviewInSolutionExplorer": false
 }
