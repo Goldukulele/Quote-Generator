@@ -1,0 +1,2 @@
+class Quotess < ApplicationRecord
+end
